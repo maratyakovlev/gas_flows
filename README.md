@@ -2,11 +2,11 @@
 **GENERAL DESCRIPTION**  
 Aim of this project is to create a script that would allow to create a visualisation of gas flow data.
 
-**DATA SOURCE**
+**DATA SOURCE**  
 Gas flow data are received from ENTSOG platform, it's publicly available source.
 https://www.entsog.eu/
 
-**DETAILED DESCRIPTION, PROJECT GOAL**
+**DETAILED DESCRIPTION, PROJECT GOAL**  
 As s a start point I wanted to visualise gas flow data of newly built German LNG Terminals.
 This visualisation would allow to show when the Terminals were comissioned and how each of them contribute to LNG import to Germany.
 
@@ -20,4 +20,4 @@ I used following libraries during the project:
 - io
 - matplotlib
 
-**PROJECT HISTORY**
+**PROJECT HISTORY**  
